@@ -2,3 +2,5 @@ futbol
 basket
 tenis
 nadar
+volley
+padel

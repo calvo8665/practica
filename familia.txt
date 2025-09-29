@@ -2,3 +2,5 @@ mama
 papa
 primo
 prima
+tio
+tia
