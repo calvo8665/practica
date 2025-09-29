@@ -1,2 +1,4 @@
 mama
 papa
+primo
+prima

@@ -1,2 +1,4 @@
 futbol
 basket
+tenis
+nadar
